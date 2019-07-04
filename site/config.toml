@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Example site with author pages"
+title = "Data Blog"
 
 # uncomment the next line to disable listing authors
 # disableKinds = ["taxonomyTerm"]
